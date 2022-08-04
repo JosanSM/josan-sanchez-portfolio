@@ -605,4 +605,8 @@ label {
     html {
         display: none;
     }
+
+    #hi {
+        margin: 0;
+    }
 }
